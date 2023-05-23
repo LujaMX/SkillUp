@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SkillUp/static/css/main.cf36a7e2.css",
+    "main.js": "/SkillUp/static/js/main.cd2f7bc3.js",
+    "static/media/aboutBackground2.png": "/SkillUp/static/media/aboutBackground2.232b4a79ad17673c2ef0.png",
+    "static/media/home-banner-image.png": "/SkillUp/static/media/home-banner-image.44ed3b0ea2f55d415d0f.png",
+    "static/media/LogoD.svg": "/SkillUp/static/media/LogoD.16ab097c684ce6c51d46bd87e4647798.svg",
+    "static/media/home-banner-background.png": "/SkillUp/static/media/home-banner-background.0f98dfb9a202beb30454.png",
+    "index.html": "/SkillUp/index.html",
+    "main.cf36a7e2.css.map": "/SkillUp/static/css/main.cf36a7e2.css.map",
+    "main.cd2f7bc3.js.map": "/SkillUp/static/js/main.cd2f7bc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf36a7e2.css",
+    "static/js/main.cd2f7bc3.js"
+  ]
+}
